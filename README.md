@@ -5,7 +5,7 @@ Basic Django 3 and Django REST Framework template
 ## Installation
 
 - Setup and activate virtual environment
-- Install requirements with `pip install -r requirements` in `/backend` directory
+- Install requirements with `pip install -r requirements.txt` in `/backend` directory
 - Place Django's `SECRET_KEY` in `/backend/dj_secret.key`
 
 ## Build and Test
